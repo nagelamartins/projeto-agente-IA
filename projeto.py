@@ -57,7 +57,7 @@ def to_markdown(text):
 # --- Agente 1: Curador de recursos --- #
 ##########################################
 
-def agente_curador_recursos(topico)
+def agente_curador_recursos(topico):
     agente_curador = Agent(
         name="agente_curador",
         model= MODEL_ID,
